@@ -1,11 +1,11 @@
 # Telecom-Churn-Prediction-App
 
 
-This project is all about helping telecom companies figure out which customers are likely to leave—before they actually do. I built a simple, interactive web app using Streamlit that makes it easy to get churn predictions with just a few clicks.
+This project is all about helping telecom companies figure out which customers are likely to leave before they actually do. I built a simple, interactive web app using Streamlit that makes it easy to get churn predictions with just a few clicks.
 
 #### What the App Does:
 ##### Single Prediction: 
-You can enter details for one customer—like their call minutes, whether they have an international plan, how often they contact customer service—and the app will tell you if they’re likely to churn or stick around.
+You can enter details for one customer like their call minutes, whether they have an international plan, how often they contact customer service and the app will tell you if they’re likely to churn or stick around.
 
 ##### Batch Prediction: 
 Got a whole list of customers? No problem. Upload a CSV file, and the app will run predictions on all of them at once. You’ll get a clean table with results, plus visual charts to quickly see the big picture.
